@@ -1,5 +1,4 @@
 //Student Name: Sayeda Sanzida Ferdous Ruhi
-//Student ID: CSE 072 08182
 
 #include<windows.h>
 #ifdef _APPLE_
